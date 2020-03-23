@@ -6,5 +6,5 @@ Slack username: Nai
 
 Tracks and the courses registered:
 	Frontend - HTML, CSS, JS
-	Backend - NodeJs
-	Design - UI/UX
+	Backend  - NodeJs
+	Design   - UI/UX
