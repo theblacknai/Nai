@@ -1,0 +1,10 @@
+Full Name: Stephen Igbokwe
+
+Email address: himjnai@gmail.com
+
+Slack username: Nai
+
+Tracks and the courses registered:
+	Frontend - HTML, CSS, JS
+	Backend - NodeJs
+	Design - UI/UX
